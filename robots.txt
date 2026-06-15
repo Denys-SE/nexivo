@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://denys-se.github.io/nexivo/sitemap.xml
